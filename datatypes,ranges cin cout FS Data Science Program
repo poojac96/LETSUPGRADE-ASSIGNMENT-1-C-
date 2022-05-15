@@ -89,14 +89,10 @@ int main()
 	y = x - y; // y becomes 10
 	x = x - y; // x becomes 5
 	cout << "After Swapping: x =" << x << ", y=" << y;
-}
-
-======================================================================================================================================================================
-                                               
-                                                Q5. Write a Program in C++ to Check Whether a character is Vowel or Consonant?
+}                                               
+ 
+Q5. Write a Program in C++ to Check Whether a character is Vowel or Consonant?
                                                 
-ANSWER:-
-
 #include <iostream>
 using namespace std;
 
